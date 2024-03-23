@@ -1,0 +1,3 @@
+[2024-03-13T18:23:57.517320+01:00] my_logger.ERROR: Este es un mensaje de error. [] []
+[2024-03-13T18:23:57.521253+01:00] my_logger.INFO: Este es un mensaje general. [] []
+[2024-03-13T18:23:57.521318+01:00] my_logger.INFO: El usuario ha realizado una acción. {"usuario":"usuario1"} []
